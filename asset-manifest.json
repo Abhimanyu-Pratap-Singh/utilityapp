@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.6a73a003.chunk.css",
-    "main.js": "/weatherapp/static/js/main.d46bd2be.chunk.js",
-    "main.js.map": "/weatherapp/static/js/main.d46bd2be.chunk.js.map",
-    "runtime-main.js": "/weatherapp/static/js/runtime-main.cbe7d0cd.js",
-    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.cbe7d0cd.js.map",
-    "static/css/2.53150396.chunk.css": "/weatherapp/static/css/2.53150396.chunk.css",
-    "static/js/2.7190a188.chunk.js": "/weatherapp/static/js/2.7190a188.chunk.js",
-    "static/js/2.7190a188.chunk.js.map": "/weatherapp/static/js/2.7190a188.chunk.js.map",
-    "static/js/3.fae00b38.chunk.js": "/weatherapp/static/js/3.fae00b38.chunk.js",
-    "static/js/3.fae00b38.chunk.js.map": "/weatherapp/static/js/3.fae00b38.chunk.js.map",
-    "index.html": "/weatherapp/index.html",
-    "static/css/2.53150396.chunk.css.map": "/weatherapp/static/css/2.53150396.chunk.css.map",
-    "static/css/main.6a73a003.chunk.css.map": "/weatherapp/static/css/main.6a73a003.chunk.css.map",
-    "static/js/2.7190a188.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.7190a188.chunk.js.LICENSE.txt"
+    "main.css": "/utilityapp/static/css/main.6a73a003.chunk.css",
+    "main.js": "/utilityapp/static/js/main.681a05f4.chunk.js",
+    "main.js.map": "/utilityapp/static/js/main.681a05f4.chunk.js.map",
+    "runtime-main.js": "/utilityapp/static/js/runtime-main.5aeb3c29.js",
+    "runtime-main.js.map": "/utilityapp/static/js/runtime-main.5aeb3c29.js.map",
+    "static/css/2.53150396.chunk.css": "/utilityapp/static/css/2.53150396.chunk.css",
+    "static/js/2.3d4d05cf.chunk.js": "/utilityapp/static/js/2.3d4d05cf.chunk.js",
+    "static/js/2.3d4d05cf.chunk.js.map": "/utilityapp/static/js/2.3d4d05cf.chunk.js.map",
+    "static/js/3.f488ffce.chunk.js": "/utilityapp/static/js/3.f488ffce.chunk.js",
+    "static/js/3.f488ffce.chunk.js.map": "/utilityapp/static/js/3.f488ffce.chunk.js.map",
+    "index.html": "/utilityapp/index.html",
+    "static/css/2.53150396.chunk.css.map": "/utilityapp/static/css/2.53150396.chunk.css.map",
+    "static/css/main.6a73a003.chunk.css.map": "/utilityapp/static/css/main.6a73a003.chunk.css.map",
+    "static/js/2.3d4d05cf.chunk.js.LICENSE.txt": "/utilityapp/static/js/2.3d4d05cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbe7d0cd.js",
+    "static/js/runtime-main.5aeb3c29.js",
     "static/css/2.53150396.chunk.css",
-    "static/js/2.7190a188.chunk.js",
+    "static/js/2.3d4d05cf.chunk.js",
     "static/css/main.6a73a003.chunk.css",
-    "static/js/main.d46bd2be.chunk.js"
+    "static/js/main.681a05f4.chunk.js"
   ]
 }
